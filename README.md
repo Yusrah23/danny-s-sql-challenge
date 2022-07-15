@@ -1,4 +1,4 @@
-# danny-s-sql-challenge
+# Danny's Diner
 
 ## INTRODUCTION
 
